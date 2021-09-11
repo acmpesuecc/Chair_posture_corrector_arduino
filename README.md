@@ -1,5 +1,5 @@
 # Chair_posture_corrector_arduino
-I have made a posture corrector using arduino and a other hardware  components 
+I have made a posture corrector using arduino and other hardware  components like vibration motor , force sensor ,buzzers and display.
 
 
 
